@@ -1,0 +1,14 @@
+/Users/danis/Documents/GitHub/Dom2/labpract/bin/Debug/net7.0/labpract
+/Users/danis/Documents/GitHub/Dom2/labpract/bin/Debug/net7.0/labpract.deps.json
+/Users/danis/Documents/GitHub/Dom2/labpract/bin/Debug/net7.0/labpract.runtimeconfig.json
+/Users/danis/Documents/GitHub/Dom2/labpract/bin/Debug/net7.0/labpract.dll
+/Users/danis/Documents/GitHub/Dom2/labpract/bin/Debug/net7.0/labpract.pdb
+/Users/danis/Documents/GitHub/Dom2/labpract/obj/Debug/net7.0/labpract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danis/Documents/GitHub/Dom2/labpract/obj/Debug/net7.0/labpract.AssemblyInfoInputs.cache
+/Users/danis/Documents/GitHub/Dom2/labpract/obj/Debug/net7.0/labpract.AssemblyInfo.cs
+/Users/danis/Documents/GitHub/Dom2/labpract/obj/Debug/net7.0/labpract.csproj.CoreCompileInputs.cache
+/Users/danis/Documents/GitHub/Dom2/labpract/obj/Debug/net7.0/labpract.dll
+/Users/danis/Documents/GitHub/Dom2/labpract/obj/Debug/net7.0/refint/labpract.dll
+/Users/danis/Documents/GitHub/Dom2/labpract/obj/Debug/net7.0/labpract.pdb
+/Users/danis/Documents/GitHub/Dom2/labpract/obj/Debug/net7.0/labpract.genruntimeconfig.cache
+/Users/danis/Documents/GitHub/Dom2/labpract/obj/Debug/net7.0/ref/labpract.dll

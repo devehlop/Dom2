@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Tymakov3
+namespace labgl2
 {
     internal class Program
     {

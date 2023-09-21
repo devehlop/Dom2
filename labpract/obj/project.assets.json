@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danis/Documents/GitHub/Dom2/labgl2/Dom2.csproj",
-      "projectName": "Dom2",
-      "projectPath": "/Users/danis/Documents/GitHub/Dom2/labgl2/Dom2.csproj",
+      "projectUniqueName": "/Users/danis/Documents/GitHub/Dom2/labpract/labpract.csproj",
+      "projectName": "labpract",
+      "projectPath": "/Users/danis/Documents/GitHub/Dom2/labpract/labpract.csproj",
       "packagesPath": "/Users/danis/.nuget/packages/",
-      "outputPath": "/Users/danis/Documents/GitHub/Dom2/labgl2/obj/",
+      "outputPath": "/Users/danis/Documents/GitHub/Dom2/labpract/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danis/.nuget/NuGet/NuGet.Config"
