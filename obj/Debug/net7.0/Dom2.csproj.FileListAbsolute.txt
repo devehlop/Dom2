@@ -1,0 +1,14 @@
+/Users/danis/Documents/GitHub/Dom2/bin/Debug/net7.0/Dom2
+/Users/danis/Documents/GitHub/Dom2/bin/Debug/net7.0/Dom2.deps.json
+/Users/danis/Documents/GitHub/Dom2/bin/Debug/net7.0/Dom2.runtimeconfig.json
+/Users/danis/Documents/GitHub/Dom2/bin/Debug/net7.0/Dom2.dll
+/Users/danis/Documents/GitHub/Dom2/bin/Debug/net7.0/Dom2.pdb
+/Users/danis/Documents/GitHub/Dom2/obj/Debug/net7.0/Dom2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danis/Documents/GitHub/Dom2/obj/Debug/net7.0/Dom2.AssemblyInfoInputs.cache
+/Users/danis/Documents/GitHub/Dom2/obj/Debug/net7.0/Dom2.AssemblyInfo.cs
+/Users/danis/Documents/GitHub/Dom2/obj/Debug/net7.0/Dom2.csproj.CoreCompileInputs.cache
+/Users/danis/Documents/GitHub/Dom2/obj/Debug/net7.0/Dom2.dll
+/Users/danis/Documents/GitHub/Dom2/obj/Debug/net7.0/refint/Dom2.dll
+/Users/danis/Documents/GitHub/Dom2/obj/Debug/net7.0/Dom2.pdb
+/Users/danis/Documents/GitHub/Dom2/obj/Debug/net7.0/Dom2.genruntimeconfig.cache
+/Users/danis/Documents/GitHub/Dom2/obj/Debug/net7.0/ref/Dom2.dll
